@@ -1,0 +1,14 @@
+Problem Statement:
+    Do students prefer online or in person courses
+
+Dataset: 
+    own
+
+Code: 
+    self
+
+Algorithms being used:
+    Decision Trees, and Logistic regression
+
+    Conclusion: students prefer In-Person lecture, where most white ethnicity prefer in-person lecture,
+    STEM majors prefer in-person lecture, and high GPA students also prefer in-person lecture.  
